@@ -38,7 +38,7 @@ This project focuses on a detailed analysis of car sales data for Epic Voyage, a
      Classifying states into performance tiers using minmax scaling.
 
  ## Results and Insights:
- -The analysis revealed which states are outperforming others in terms of car sales and policy attachment rates.
- -The identification of popular car brands and models provided insights into customer preferences.
- -The statewise performance ranking and tier classification offered a clear view of regional sales dynamics and helped in identifying areas for improvement.
+  The analysis revealed which states are outperforming others in terms of car sales and policy attachment rates.
+  The identification of popular car brands and models provided insights into customer preferences.
+  The statewise performance ranking and tier classification offered a clear view of regional sales dynamics and helped in identifying areas for improvement.
 
