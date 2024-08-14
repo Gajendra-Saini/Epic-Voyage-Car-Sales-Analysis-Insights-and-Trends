@@ -32,7 +32,7 @@ This project focuses on a detailed analysis of car sales data for Epic Voyage, a
      Calculating the sales window for each sold car.
      Aggregating total sales by car brand.
      Analyzing the percentage of sold cars with attached insurance policies by state.
-  ### Python: Used for further data manipulation and generating reports from the CSV file containing the car sales summary. Key Python tasks included:
+  ### Python: Used for further data manipulation and generating reports from the CSV file containing the car sales summary.
      Recreating statewise summary reports with additional metrics like the number of unique brands sold.
      Ranking states based on sales, number of cars sold, and brand diversity.
      Classifying states into performance tiers using minmax scaling.
